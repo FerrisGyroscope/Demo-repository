@@ -1,5 +1,4 @@
 pandas
 numpy
-gdown
 ipywidgets
 voila
